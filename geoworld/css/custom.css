@@ -15,9 +15,10 @@ code {
   width:100%;
   height: auto;
   position:relative;
-  border:1px solid #BBB;
- // background:#eee;
+  border:1px solid #15015c;
+ background:#eee;
 }
+
 
 .ribbon {
   position: absolute;
